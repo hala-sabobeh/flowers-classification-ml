@@ -42,7 +42,9 @@ flowers/
 └── tulip/
 ```
 
-This repository only includes the `daisy` folder. Download the full [Flowers Recognition dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) from Kaggle and place all five class folders inside `flowers/`.
+This repository only includes the `daisy` folder. Download the full Flowers Recognition dataset from Kaggle and place all five class folders inside `flowers/`:
+
+https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
 
 ## Requirements
 
